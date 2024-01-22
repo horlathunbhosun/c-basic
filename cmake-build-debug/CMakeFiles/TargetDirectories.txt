@@ -1,0 +1,3 @@
+/Users/olulodeolatunbosun/development/SCHOOL/c-programming/firstlang/cmake-build-debug/CMakeFiles/firstlang.dir
+/Users/olulodeolatunbosun/development/SCHOOL/c-programming/firstlang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/olulodeolatunbosun/development/SCHOOL/c-programming/firstlang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
